@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background: blueviolet;
+  color: rgb(238, 237, 241);
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+  background: #444;
+  display: flex;
+  justify-content: space-between;
+}
